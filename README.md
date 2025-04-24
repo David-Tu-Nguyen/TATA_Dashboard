@@ -11,7 +11,8 @@ The data source can be found on  website at [this link](https://www.theforage.co
 - **Customer Insights:** Identify top-customers
 - **Visualize Trends:** Enable visualization-ready data for further exploration.
 
-The questions we will answer through this analysis are the following :
+The questions we will answer through this analysis are the following:
+
 **1. Questions of interest to the CEO**
 - Which region is generating the highest revenue, and which region is generating the lowest?
 - What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
