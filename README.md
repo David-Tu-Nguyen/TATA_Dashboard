@@ -1,7 +1,7 @@
 # TATA_Dashboard
 The data source can be found on  website at [this link](https://www.theforage.com/simulations/tata/data-visualisation-p5xo). The main objective of this project is to provide actionable insights to the CEO and CMO for strategic planning and expansion. The analysis will highlight high-performing areas, customer demographics, and marketing effectiveness to support data-driven decision-making.
 
-[Preview_Dashboard](https://github.com/David-Tu-Nguyen/Coffee_Shop_Sales_Analysis/blob/main/PowerBI_Dashboard/Dashboard_Snapshot.gif/). 
+[Preview_Dashboard](https://github.com/David-Tu-Nguyen/TATA_Dashboard/blob/main/1.%20Dashboard/TATA%20Dashboard.gif). 
 
 ## Main objective
 
